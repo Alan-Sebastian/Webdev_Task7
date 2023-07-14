@@ -1,0 +1,25 @@
+.main-body{
+    padding-top: 20px;
+}
+.calc{
+    width:500px;
+    border-radius: 20px;
+    height:600px;
+    background-color: black;
+    margin-left: 400px;
+}
+#screen{
+    width:80%;
+    margin-top: 30px;
+    margin-left:36px;
+    height:40px;
+    pointer-events: none;
+    background-color: white;
+}
+.btn{
+    width:70px;
+    height:60px;
+    margin-left: 36px;
+    margin-top: 30px;
+    background-color: white;
+}
